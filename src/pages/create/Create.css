@@ -1,0 +1,7 @@
+.create-form {
+  max-width: 600px;
+}
+
+.create-form textarea {
+  resize: vertical;
+}
