@@ -1,7 +1,7 @@
 # The Dojo - Project Management Website
 
 The Dojo is a project management website packed with a range of features to help teams stay organized and productive. The website is built using React.js and Firebase, which provides a robust and scalable platform to build upon.
-
+ 
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
